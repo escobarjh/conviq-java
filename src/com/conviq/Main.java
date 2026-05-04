@@ -27,7 +27,7 @@ public class Main {
         AnalisadorTexto.analisar(transcricao);
 
         System.out.println("\n=== INSIGHTS ===");
-        AnalisadorTexto.gerarInsight(transcricao);
+        transcricao.exibirResumo();
 
         sc.close();
     }
