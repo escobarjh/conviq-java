@@ -1,4 +1,4 @@
-package com.conviq;
+package com.conviq.model;
 
 public class Participante {
     private String nome;

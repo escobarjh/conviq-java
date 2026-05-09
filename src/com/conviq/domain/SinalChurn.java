@@ -1,4 +1,4 @@
-package com.conviq;
+package com.conviq.domain;
 
 public class SinalChurn extends Sinal {
 

@@ -1,4 +1,8 @@
-package com.conviq;
+package com.conviq.service;
+
+import com.conviq.domain.SinalChurn;
+import com.conviq.domain.SinalOportunidade;
+import com.conviq.model.Transcricao;
 
 import java.util.Arrays;
 import java.util.List;

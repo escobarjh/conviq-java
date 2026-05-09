@@ -1,4 +1,4 @@
-package com.conviq;
+package com.conviq.model;
 
 import java.util.ArrayList;
 import java.util.List;

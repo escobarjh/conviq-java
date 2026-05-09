@@ -1,4 +1,6 @@
-package com.conviq;
+package com.conviq.model;
+
+import com.conviq.domain.Sinal;
 
 import java.util.ArrayList;
 import java.util.List;

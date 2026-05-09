@@ -1,7 +1,9 @@
-package com.conviq;
+package com.conviq.app;
 
-import java.util.List;
-import java.util.Scanner;
+import com.conviq.service.AnalisadorTexto;
+import com.conviq.model.Participante;
+import com.conviq.model.Reuniao;
+import com.conviq.model.Transcricao;
 
 import java.util.Scanner;
 
